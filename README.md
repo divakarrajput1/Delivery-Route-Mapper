@@ -5,5 +5,5 @@ This project demonstrates a full data pipeline for geospatial analysis starting 
 # Tools Used 
 ## 1.QGIS
 ## 2.PostgreSQL+PostGIS
-## 3.OpenStreetMAp (Nominatim)
+## 3.OpenStreetMap (Nominatim)
 ## 4.Python (Folium)
